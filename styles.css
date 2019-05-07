@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_pic/05/16/74/5659b6400e6e688.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #F3D3AF;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+img {
+    border-radius: 30%;
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 40px;
+}
+
+ul {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+a {
+    text-align: center;
+    display: block;
+}
